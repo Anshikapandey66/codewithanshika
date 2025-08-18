@@ -1,0 +1,11 @@
+portfolio-starter/
+├─ index.html
+├─ style.css
+├─ script.js
+└─ assets/
+   ├─ images/
+   │  └─ profile-placeholder.png
+   ├─ icons/
+   │  └─ favicon.png
+   └─ docs/
+      └─ Resume.pdf  (yaha apna CV add karna)
